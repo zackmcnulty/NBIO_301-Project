@@ -10,10 +10,12 @@ overal behavior.
 
 Basic git workflow
 
+- Change into the project's directory/folder. Use ls to see files in directory and cd DIRECTORY to change folders
+
 ##### get changes from other people: ALWAYS do this before you start working
-git pull
+- git pull
 
 ##### submit your own changes: ALWAYS do this when you are done working
-git add FILENAME
-git commit -m "summary of what you did"
-git push
+- git add FILENAME
+- git commit -m "summary of what you did"
+- git push
